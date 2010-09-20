@@ -41,7 +41,7 @@ def quadraticType1(times,length=100.00):
 	t.rotateTurtle(-90)
 
 
-def quadraticType2(times,length=100.00):
+def kochIsland(times,length=100.00):
 	t.penUp()
         t.rotateTurtle(180)
         t.moveForward(150)
